@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Your solution on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-link)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-card-layout-using-css-grid-flexbox-and-semantic-html-9ru80YgFCN)
+- Live Site URL: [Live site](https://diegobezerra80.github.io/four-card-feature-section/)
 
 ## My process
 
